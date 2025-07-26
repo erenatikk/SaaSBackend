@@ -36,3 +36,34 @@ SaaSBackend/
 ├── SaaSBackend.Domain/         # Entity sınıfları
 ├── SaaSBackend.Shared/         # Ortak yapılar (opsiyonel)
 └── docker-compose.yml          # PostgreSQL Docker servisi
+```
+
+⚙️ Kurulum ve Çalıştırma
+Aşağıdaki adımları izleyerek projeyi lokal ortamınızda hızlıca çalıştırabilirsiniz:
+
+1. PostgreSQL veritabanını başlat
+Docker üzerinden PostgreSQL konteynerini ayağa kaldırmak için:
+
+docker-compose up -d
+
+---
+
+2. Veritabanı tablolarını oluştur
+Entity Framework Core migration işlemini veritabanına uygulayın:
+
+dotnet ef database update -p SaaSBackend.Infrastructure -s SaaSBackend.API
+
+---
+
+3. API projesini çalıştır
+Web API'yi başlatmak için:
+
+dotnet run --project SaaSBackend.API
+
+---
+
+4. Swagger arayüzünü aç
+Aşağıdaki adresi tarayıcıda açarak API'yi test edebilirsiniz:
+
+http://localhost:5205/swagger
+Buradan register, login ve token doğrulama işlemleri kolayca yapılabilir.
