@@ -1,0 +1,17 @@
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBackend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\bin\Debug\net9.0\SaaSBackend.Infrastructure.deps.json
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\bin\Debug\net9.0\SaaSBackend.Infrastructure.runtimeconfig.json
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\bin\Debug\net9.0\SaaSBackend.Infrastructure.dll
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\bin\Debug\net9.0\SaaSBackend.Infrastructure.pdb
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\bin\Debug\net9.0\SaaSBackend.Domain.dll
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\bin\Debug\net9.0\SaaSBackend.Domain.pdb
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBack.7F19145E.Up2Date
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBackend.Infrastructure.dll
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\refint\SaaSBackend.Infrastructure.dll
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBackend.Infrastructure.pdb
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\SaaSBackend.Infrastructure.genruntimeconfig.cache
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Infrastructure\obj\Debug\net9.0\ref\SaaSBackend.Infrastructure.dll

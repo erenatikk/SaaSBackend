@@ -1,0 +1,11 @@
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\bin\Debug\net9.0\SaaSBackend.Shared.deps.json
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\bin\Debug\net9.0\SaaSBackend.Shared.dll
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\bin\Debug\net9.0\SaaSBackend.Shared.pdb
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\obj\Debug\net9.0\SaaSBackend.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\obj\Debug\net9.0\SaaSBackend.Shared.AssemblyInfoInputs.cache
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\obj\Debug\net9.0\SaaSBackend.Shared.AssemblyInfo.cs
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\obj\Debug\net9.0\SaaSBackend.Shared.csproj.CoreCompileInputs.cache
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\obj\Debug\net9.0\SaaSBackend.Shared.dll
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\obj\Debug\net9.0\refint\SaaSBackend.Shared.dll
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\obj\Debug\net9.0\SaaSBackend.Shared.pdb
+C:\Users\erena\Desktop\SaaSBackend\SaaSBackend.Shared\obj\Debug\net9.0\ref\SaaSBackend.Shared.dll

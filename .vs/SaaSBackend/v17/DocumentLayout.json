@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erena\\Desktop\\SaaSBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|solutionrelative:saasbackend.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|solutionrelative:saasbackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.api\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|solutionrelative:saasbackend.api\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|solutionrelative:saasbackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|solutionrelative:saasbackend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.api\\controllers\\firmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|solutionrelative:saasbackend.api\\controllers\\firmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9240E6-914D-4AEC-B1F8-33D32E495B2A}|SaaSBackend.Infrastructure\\SaaSBackend.Infrastructure.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9240E6-914D-4AEC-B1F8-33D32E495B2A}|SaaSBackend.Infrastructure\\SaaSBackend.Infrastructure.csproj|solutionrelative:saasbackend.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0C07B7-9206-4A66-8C5E-900F5EBD89A4}|SaaSBackend.Domain\\SaaSBackend.Domain.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.domain\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0C07B7-9206-4A66-8C5E-900F5EBD89A4}|SaaSBackend.Domain\\SaaSBackend.Domain.csproj|solutionrelative:saasbackend.domain\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9240E6-914D-4AEC-B1F8-33D32E495B2A}|SaaSBackend.Infrastructure\\SaaSBackend.Infrastructure.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.infrastructure\\context\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9240E6-914D-4AEC-B1F8-33D32E495B2A}|SaaSBackend.Infrastructure\\SaaSBackend.Infrastructure.csproj|solutionrelative:saasbackend.infrastructure\\context\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0C07B7-9206-4A66-8C5E-900F5EBD89A4}|SaaSBackend.Domain\\SaaSBackend.Domain.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.domain\\entities\\firma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0C07B7-9206-4A66-8C5E-900F5EBD89A4}|SaaSBackend.Domain\\SaaSBackend.Domain.csproj|solutionrelative:saasbackend.domain\\entities\\firma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|c:\\users\\erena\\desktop\\saasbackend\\saasbackend.api\\saasbackend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02F3FE56-372F-4A16-9491-E2D921875EEA}|SaaSBackend.API\\SaaSBackend.API.csproj|solutionrelative:saasbackend.api\\saasbackend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "SaaSBackend.API\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "SaaSBackend.API\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:37:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SaaSBackend.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SaaSBackend.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T09:59:45.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirmaController.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Controllers\\FirmaController.cs",
+              "RelativeDocumentMoniker": "SaaSBackend.API\\Controllers\\FirmaController.cs",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Controllers\\FirmaController.cs",
+              "RelativeToolTip": "SaaSBackend.API\\Controllers\\FirmaController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwEsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:56:48.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.Infrastructure\\Context\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "SaaSBackend.Infrastructure\\Context\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.Infrastructure\\Context\\DbContextFactory.cs",
+              "RelativeToolTip": "SaaSBackend.Infrastructure\\Context\\DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:58:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SaaSBackend.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SaaSBackend.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:49:21.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Program.cs",
+              "RelativeDocumentMoniker": "SaaSBackend.API\\Program.cs",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Program.cs",
+              "RelativeToolTip": "SaaSBackend.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:45:44.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SaaSBackend.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\appsettings.json",
+              "RelativeToolTip": "SaaSBackend.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T09:54:05.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaaSBackend.API",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\SaaSBackend.API.csproj",
+              "RelativeDocumentMoniker": "SaaSBackend.API\\SaaSBackend.API.csproj",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\SaaSBackend.API.csproj",
+              "RelativeToolTip": "SaaSBackend.API\\SaaSBackend.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T06:45:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SaaSBackend.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SaaSBackend.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:49:42.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.Domain\\Entities\\Kullanici.cs",
+              "RelativeDocumentMoniker": "SaaSBackend.Domain\\Entities\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.Domain\\Entities\\Kullanici.cs",
+              "RelativeToolTip": "SaaSBackend.Domain\\Entities\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:45:41.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Firma.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.Domain\\Entities\\Firma.cs",
+              "RelativeDocumentMoniker": "SaaSBackend.Domain\\Entities\\Firma.cs",
+              "ToolTip": "C:\\Users\\erena\\Desktop\\SaaSBackend\\SaaSBackend.Domain\\Entities\\Firma.cs",
+              "RelativeToolTip": "SaaSBackend.Domain\\Entities\\Firma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:40:49.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
